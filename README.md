@@ -1,0 +1,2 @@
+# CPT-project-28-Student-Lab-1-Large-Scale-Networking-Lab-with-130-Multilayer-Switches-30-PCs-Servers-
+I’m excited to share a comprehensive educational project – Student Lab 1 – a massive Cisco Packet Tracer simulation designed for hands‑on networking practice. The lab includes over 130 multilayer switches (Cisco 3560‑24PS), multiple Layer 2 switches (2960‑24TT), 30+ client PCs, and two central servers.
